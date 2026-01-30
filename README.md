@@ -11,8 +11,7 @@ The model was statistically significant (**p < 0.001**) and revealed:
 * **Gender:** Women are **45% more likely** to fall (**OR: 1.45, p<0.001**) compared to men in the same age group.
 * **The Age Paradox:** Chronological age was **not** a significant predictor when adjusted for comorbidities (**p=0.29**), suggesting that biological health is a more reliable metric than birth year for this outcome.
 
-<img width="1190" height="690" alt="image" src="https://github.com/user-attachments/assets/894f9347-f9dc-4d83-9c74-4174cb7c7575" />
-
+![-](Unknown.png)
 
 ## 🛠️ Tech Stack 
 * **Language:** Python
